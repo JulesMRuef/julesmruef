@@ -1,17 +1,16 @@
----
----
 
-## TITLE! 
 
-I'm a geomorphologist and a PhD candidate at the University of Colorado Boulder. I study the slow machinery of glaciers and frozen ground in high mountains and high latitudes, and what that motion records about a changing climate.
+# Reading ice and rock
+
+I'm a geomorphologist and a PhD student at the University of Colorado Boulder. I study the slow machinery of glaciers and frozen ground in high mountains and high latitudes, and what that motion records about a changing climate.
 
 **University of Colorado Boulder**
 Department of Geological Sciences · INSTAAR
 Advised by Robert S. Anderson and Bradley Markle
--maybe less dreary heaavy icy quote?!
-> "I was looking upon the counterpart of the great river systems of Arctic Asia and America… a plastic, moving, semi-solid mass… ploughing its way with irresistible march through the crust of an investing sea."
+
+> "When we try to pick out anything by itself, we find it hitched to everything else in the universe."
 >
-> — Elisha Kent Kane, on the Humboldt Glacier, Greenland (1854)
+> — John Muir, My First Summer in the Sierra (1911)
 
 ## About
 
@@ -35,12 +34,11 @@ Roughly a million years ago, Earth's ice-age rhythm shifted from a steady 41,000
 
 ## Field and methods
 
-Field instrumentation across Alaska and Colorado, including GNSS, seismic methods, and UAV. Numerical modeling (finding the simplest physics to descibe understand lndscapes!) i dont do big models! i love builing small trctabel models that ranges from one-dimensional thermal columns to flowline ice dynamics and glacial isostatic adjustment...
+In the field I work across Alaska and Colorado with GNSS, seismic methods, and UAV surveys. When it comes to modeling I am much happier building small, tractable models than big ones, looking for the simplest physics that can capture how a landscape behaves. These range from one-dimensional thermal columns to flowline ice dynamics and glacial isostatic adjustment.
 
 ## Publications
 
 - Horlings, A., Ruef, J., Stevens, C. M., Mannello, M., Bellamy, J., Wiggins, H., Markle, B., and Campbell, S. (2026). Spatial and temporal evolution of snow and firn across the Juneau Icefield.
-
 
 ## Education
 
@@ -54,6 +52,6 @@ Always glad to talk!
 
 - Email: juliana.ruef@colorado.edu
 - GitHub: [JulesMRuef](https://github.com/JulesMRuef)
-- Google Scholar: add your link
-- ORCID: add your link
-- CV: add your link
+- Google Scholar: 
+- ORCID: 
+- CV: a
