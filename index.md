@@ -38,7 +38,9 @@ In the field I work across Alaska and Colorado with GNSS, seismic methods, and U
 
 ## Publications
 
+- Ruef, J., Anderson, R. S., and Markle, B. (in review). What sustains a rock glacier? Debris composition, pore-water drainage, and shading set a critical debris thickness. *Journal of Glaciology*.
 - Horlings, A., Ruef, J., Stevens, C. M., Mannello, M., Bellamy, J., Wiggins, H., Markle, B., and Campbell, S. (2026). Spatial and temporal evolution of snow and firn across the Juneau Icefield.
+
 
 ## Education
 
