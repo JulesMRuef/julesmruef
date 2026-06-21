@@ -1,7 +1,4 @@
 
-
-# Reading ice and rock
-
 I'm a geomorphologist and a PhD student at the University of Colorado Boulder. I study the slow machinery of glaciers and frozen ground in high mountains and high latitudes, and what that motion records about a changing climate.
 
 **University of Colorado Boulder**
