@@ -1,56 +1,59 @@
 ---
 ---
 
-## How ice and rock move and remember
+## TITLE! 
 
-I study geomorphological change in high mountains and high latitudes — the slow machinery of glaciers and frozen ground, and what it records.
+I'm a geomorphologist and a PhD candidate at the University of Colorado Boulder. I study the slow machinery of glaciers and frozen ground in high mountains and high latitudes, and what that motion records about a changing climate.
 
 **University of Colorado Boulder**
 Department of Geological Sciences · INSTAAR
-Juneau Icefield Research Program
-
+Advised by Robert S. Anderson and Bradley Markle
+-maybe less dreary heaavy icy quote?!
 > "I was looking upon the counterpart of the great river systems of Arctic Asia and America… a plastic, moving, semi-solid mass… ploughing its way with irresistible march through the crust of an investing sea."
 >
 > — Elisha Kent Kane, on the Humboldt Glacier, Greenland (1854)
 
 ## About
 
-The global physical environment is a vast and complex machine composed of numerous interconnected systems capable of dramatic change over brief intervals of time. A solid understanding of the character and dynamics of this machine can explain a diversity of engaging geographical phenomena, from the aesthetically stunning views on a high Sierra Nevada mountain summit to the devastating loss of life and property resulting from landslides and floods. I am interested in designing, improving, evaluating, and enjoying such explanations.
+The physical world is a vast, slow machine, and its moving parts (ice, water, rock, climate) leave a record we can learn to read. The same processes that carve a beautiful view from a high Sierra ridge also drive the landslides and floods that put people at risk, and I find real satisfaction in building explanations that connect the two.
 
-My graduate research at CU Boulder emphasizes geomorphological change in high-altitude and high-latitude regions, focused on glaciological problems — a subdiscipline that makes uniquely powerful contributions to environmental-change research. Combining a physically based understanding of system dynamics with the reconstruction of nature's own "experiments" in Earth's environmental history, I explore questions like: how are microphysical processes in ice manifested at the scale of whole glaciers and ice sheets?
+My dissertation follows one question across very different ice. How do ice systems record and respond to climate across timescales, from a single melt season to a million years? I pursue it by pairing careful field measurements with deliberately simple models, treating the past behavior of glaciers as natural experiments. The work runs from the Juneau Icefield in Alaska to the San Juan Mountains of Colorado, and back to a laptop modeling ice sheets across the Pleistocene.
 
 ## Current research
 
-### Rock glaciers — San Juan Mountains, Colorado
+### Wave ogives, Gilkey Glacier, Juneau Icefield
 
-Rock glaciers are bodies of moving ice covered in rock and debris that shield them from melting, and they may be the most resilient ice in mid-latitude mountains. Why do we care?
+Every year the Vaughan Lewis Icefall stamps a new ridge into the glacier below it. These wave ogives are crescent-shaped and evenly spaced, standing 10 to 16 meters tall near the icefall before decaying downstream, and because their spacing equals one year of flow they are among the few glacial features that directly record seasonal forcing. Two mechanisms could explain them, one driven by seasonal mass balance and one by seasonal sliding, and they predict very different thickness anomalies. Working with students from the Juneau Icefield Research Program, I combine repeat GNSS surveys, ground-penetrating radar, and a flowline model to close the flux budget across the icefall and test which mechanism dominates.
 
-- The most frequent cryospheric features in mid-latitude mountain ranges
-- Important roles in mountain hydrology
-- Drivers of mountain-slope evolution over short and long timescales
-- Indicators of past climate and primary markers of mountain permafrost
-- A real natural hazard in steep terrain
+### Rock glaciers, Imogene Rock Glacier, San Juan Mountains
 
-### Glacier dynamics & ogives — Juneau Icefield, Alaska
-
-On the Juneau Icefield I work with decades of glacier surveys to read the ice itself — the wave ogives that form below icefalls, surface lowering, and flow — and to ask harder climate questions, like why these glaciers show a wintertime warming trend.
+Rock glaciers are slowly creeping mixtures of ice and debris, capped by a rocky mantle thick enough to insulate the ice from melting. That cover decouples them from the atmosphere and lets them outlast most alpine glaciers as the climate warms, which makes them both poorly understood and increasingly important. At Imogene I run an instrument network I built during my master's, with GNSS, seismometers, a stream gauge, thermal loggers, and a weather station, and I combine multi-resolution velocity measurements with thermal modeling to ask how these landforms move, when they formed, and why they persist. A first-authored manuscript on their thermal resilience is in preparation.
 
 ### The Mid-Pleistocene Transition
 
-About a million years ago, Earth's ice-age rhythm shifted from a steady 41,000-year beat to longer 100,000-year cycles, with no change in the orbital forcing. I build minimal ice-sheet models to test which simple ingredients are enough to produce that transition on their own.
+Roughly a million years ago, Earth's ice-age rhythm shifted from a steady 41,000-year beat to longer, deeper 100,000-year cycles, with no matching change in the orbital forcing that drives them. Recent records increasingly point to the solid Earth as the missing ingredient. I build intentionally simple ice-sheet models to test whether a depth-dependent response of the bed beneath the ice can select the 100,000-year period on its own, while leaving the size of the ice sheets unchanged.
+
+## Field and methods
+
+Field instrumentation across Alaska and Colorado, including GNSS, seismic methods, and UAV. Numerical modeling (finding the simplest physics to descibe understand lndscapes!) i dont do big models! i love builing small trctabel models that ranges from one-dimensional thermal columns to flowline ice dynamics and glacial isostatic adjustment...
+
+## Publications
+
+- Horlings, A., Ruef, J., Stevens, C. M., Mannello, M., Bellamy, J., Wiggins, H., Markle, B., and Campbell, S. (2026). Spatial and temporal evolution of snow and firn across the Juneau Icefield.
 
 
 ## Education
 
-- PhD, Geological Sciences — CU Boulder (in progress)
-- MS, Geological Sciences — CU Boulder, 2025
-- BA, Earth Science - UC Berkeley, 2021
+- PhD, Geological Sciences, University of Colorado Boulder (in progress)
+- MS, Geological Sciences, University of Colorado Boulder, 2025
+- BA, Earth Science, University of California, Berkeley, 2021
+
 ## Get in touch
 
 Always glad to talk!
 
 - Email: juliana.ruef@colorado.edu
 - GitHub: [JulesMRuef](https://github.com/JulesMRuef)
-- Google Scholar: 
-- ORCID: 
-- CV: will be added shortly!
+- Google Scholar: add your link
+- ORCID: add your link
+- CV: add your link
