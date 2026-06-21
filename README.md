@@ -1,6 +1,6 @@
-## Hi, I'm Juliana
+## Hello!
 
-Geomorphologist and PhD candidate at CU Boulder (Geological Sciences · INSTAAR). I study how glaciers and frozen ground move, and what that motion records about a changing climate.
+I'm a geomorphologist and PhD student at CU Boulder (Geological Sciences · INSTAAR). I study how glaciers and frozen ground move, and what that motion records about a changing climate.
 
 **Currently working on**
 - Wave ogives on the Juneau Icefield
