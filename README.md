@@ -10,5 +10,5 @@ Geomorphologist and PhD candidate at CU Boulder (Geological Sciences · INSTAAR)
 I'm happiest building simple models and doing real fieldwork (GNSS, seismic, UAV).
 
 **Find me**
-- Website: https://julesmruef.github.io
+- Website: https://julesmruef.github.io/julesmruef/
 - Email: juliana.ruef@colorado.edu
