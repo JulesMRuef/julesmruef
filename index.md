@@ -49,8 +49,8 @@ About a million years ago, Earth's ice-age rhythm shifted from a steady 41,000-y
 
 Always glad to talk!
 
-- Email: firstname.lastname@colorado.edu
+- Email: juliana.ruef@colorado.edu
 - GitHub: [JulesMRuef](https://github.com/JulesMRuef)
-- Google Scholar: add your link here
-- ORCID: add your link here
-- CV: add your link here
+- Google Scholar: 
+- ORCID: 
+- CV: will be added shortly!
