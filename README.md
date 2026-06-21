@@ -7,7 +7,7 @@ I'm a geomorphologist and PhD student at CU Boulder (Geological Sciences · INST
 - Rock glacier dynamics and thermal resilience in the San Juan Mountains
 - Small, tractable ice-sheet models of the Mid-Pleistocene Transition
 
-I'm happiest building simple models and doing real fieldwork (GNSS, seismic, UAV).
+I'm happiest building simple models and doing fieldwork (GNSS, seismic, UAV).
 
 **Find me**
 - Website: https://julesmruef.github.io/julesmruef/
