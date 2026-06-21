@@ -1,6 +1,4 @@
 ---
-# Keep the two dashed lines above and below — they tell GitHub to apply your theme.
-# You can delete these grey comment lines if you want.
 ---
 
 ## How ice and rock move and remember
@@ -41,26 +39,15 @@ On the Juneau Icefield I work with decades of glacier surveys to read the ice it
 
 About a million years ago, Earth's ice-age rhythm shifted from a steady 41,000-year beat to longer 100,000-year cycles, with no change in the orbital forcing. I build minimal ice-sheet models to test which simple ingredients are enough to produce that transition on their own.
 
-## Earth data science
-
-Coursework from Earth Analytics:
-
-- [Temperature over time in Barrow, AK](https://julesmruef.github.io/notebooks/ncei_temp_barrow.html)
-- [Pajaro Valley flooding history](https://julesmruef.github.io/notebooks/watsonville_time_series.html)
-- [Woolsey Fire NDVI analysis](https://julesmruef.github.io/notebooks/modis-ndvi-woolsey-fire%20(1).html)
-- [Wildfire analysis by state](https://julesmruef.github.io/notebooks/wildfire_wrt_states2.html)
-- [Multispectral functions, Denver](https://julesmruef.github.io/notebooks/00-multispectral-functions-denver.html)
-
-(These links only work if a `notebooks` folder with these HTML files lives in this same repo. The last two are worth testing — one originally pointed to a `.zip`.)
 
 ## Education
 
 - PhD, Geological Sciences — CU Boulder (in progress)
 - MS, Geological Sciences — CU Boulder, 2025
-
+- BA, Earth Science - UC Berkeley, 2021
 ## Get in touch
 
-Always glad to talk glaciers, rock glaciers, fieldwork, or Pleistocene climate, and open to collaboration.
+Always glad to talk!
 
 - Email: firstname.lastname@colorado.edu
 - GitHub: [JulesMRuef](https://github.com/JulesMRuef)
